@@ -2,26 +2,18 @@
 
 age = int(input("Enter your age: "))
 
-# แนะนำประเภทภาพยนตร์ตามช่วงอายุ
+# แนะนำเรตหนังตามช่วงอายุ
 if age < 5:
-    print("You should watch nursery rhymes and educational cartoons.")
+    print("You're too young for movies! Enjoy cartoons.")
 elif age <= 12:
-    print("You should watch animated and family movies.")
+    print("G-rated or PG-rated movies.")
 elif age <= 17:
-    print("You should watch adventure and teen movies.")
+    print("PG-13 or R-rated (with parental guidance).")
 else:
-    print("You can watch any movie, including R-rated films.")
+    print("Any movie rating.")
 
-# ถามเพิ่มเติมเรื่องหนังแอคชัน
+# Challenge: ถามเพิ่มเรื่องหนังแอคชัน
 like = input("Do you like action movies? (yes/no): ").strip().lower()
 
-# แสดงข้อความแนะนำพิเศษเฉพาะอายุ 18+ และตอบ yes
 if age >= 18 and like == "yes":
-    print("Special recommendation: Check out the latest blockbuster action movies!")
-else:
-    if like == "yes":
-        print("Great! Here are some age-appropriate action movies for you.")
-    elif like == "no":
-        print("No problem! There are plenty of other genres to enjoy.")
-    else:
-        print("Sorry, I didn't understand that answer.")
+    print("You might enjoy the latest action blockbuster!")
