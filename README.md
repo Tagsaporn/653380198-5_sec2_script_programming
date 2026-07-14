@@ -47,16 +47,50 @@ Script-Programming/
 
 ## 📚 เนื้อหาที่เรียน
 
-* ✅ Variables & Data Types
-* ✅ Operators
-* ✅ Conditions
-* ✅ Loops
-* ✅ Functions
-* ✅ Lists & Dictionaries
-* ✅ File Handling
-* ✅ Exception Handling
-* ✅ Modules
-* ✅ Final Project
+ตลอดรายวิชา **Script Programming** ได้ศึกษาเนื้อหาพื้นฐานของการเขียนโปรแกรมด้วยภาษา Python ดังนี้
+
+* 🐍 **Introduction to Python & Basic Syntax**
+
+  * รู้จักภาษา Python
+  * การติดตั้งและใช้งาน
+  * ตัวแปร (Variables)
+  * ชนิดข้อมูล (Data Types)
+  * การรับ–แสดงผลข้อมูล
+  * ตัวดำเนินการพื้นฐาน (Operators)
+
+* 🔄 **Recap**
+
+  * ทบทวนเนื้อหาพื้นฐาน
+  * ฝึกแก้โจทย์และเขียนโปรแกรมจากบทเรียนที่ผ่านมา
+
+* 📸 **Snapshot**
+
+  * สรุปภาพรวมของแนวคิดและตัวอย่างโปรแกรม
+  * ทบทวนโครงสร้างการเขียนโปรแกรมก่อนเรียนบทถัดไป
+
+* 🔀 **Conditionals**
+
+  * การใช้ `if`
+  * `if-else`
+  * `if-elif-else`
+  * การใช้ตัวดำเนินการเปรียบเทียบและตรรกะ
+
+* 🔁 **Loops**
+
+  * `for` Loop
+  * `while` Loop
+  * `break`
+  * `continue`
+  * การวนซ้ำร่วมกับ `range()`
+
+* 📋 **Lists & Tuples**
+
+  * การสร้าง List และ Tuple
+  * การเข้าถึงข้อมูล (Indexing & Slicing)
+  * การเพิ่ม ลบ และแก้ไขข้อมูลใน List
+  * การวนลูปผ่าน List และ Tuple
+  * การใช้งานเมธอดพื้นฐานของ List
+
 
 ---
 
