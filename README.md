@@ -113,6 +113,17 @@ cd script-programming
 ```bash
 python filename.py
 ```
+ผลงานเด่นในรายวิชา Script Programming 🚀
+
+---
+
+## 🌟 Featured Projects
+
+### 1. 🍳 Recipe Roulette (Final Project)
+* **GitHub Repo:** {Link: GitHub Repository https://github.com/Mametoyas/Menu-Roulette.git}
+
+### 2. 🎮 Mini Game Hub (Mini Project)
+* **GitHub Repo:** {Link: GitHub Repository https://github.com}
 
 ---
 
