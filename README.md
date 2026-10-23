@@ -117,14 +117,17 @@ python filename.py
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Team Projects
 
 ### 1. 🍳 Recipe Roulette (Final Project)
-* **GitHub Repo:** {Link: GitHub Repository https://github.com/Mametoyas/Menu-Roulette.git}
-
+เว็บสุ่มแนะนำเมนูอาหารจากวัตถุดิบ ดึงข้อมูลจาก TheMealDB API พัฒนาด้วย Flask
+* **GitHub Repo:** {Link: GitHub Repository https://github.com/Mametoyas/Menu-Roulette }
+* **Live Web:** {Link:Recipe Roulette https://recipe-roulette-seven.vercel.app/ }
+  
 ### 2. 🎮 Mini Game Hub (Mini Project)
+เว็บรวมมินิเกม Hangman เล่นแข่งและใบ้คำด้วยระบบ AI พัฒนาด้วย Flask
 * **GitHub Repo:** {Link: GitHub Repository https://github.com/Mametoyas/SP-MiniProject }
-
+* **Live Web:** {Link:GAME HUB https://sp-mini-project.vercel.app/ }
 ---
 
 ## 📌 ผู้จัดทำ
