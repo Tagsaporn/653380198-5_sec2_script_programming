@@ -123,7 +123,7 @@ python filename.py
 * **GitHub Repo:** {Link: GitHub Repository https://github.com/Mametoyas/Menu-Roulette.git}
 
 ### 2. 🎮 Mini Game Hub (Mini Project)
-* **GitHub Repo:** {Link: GitHub Repository https://github.com/Mametoyas/SP-MiniProject}
+* **GitHub Repo:** {Link: GitHub Repository https://github.com/Mametoyas/SP-MiniProject }
 
 ---
 
