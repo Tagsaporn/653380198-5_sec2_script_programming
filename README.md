@@ -136,8 +136,26 @@ python filename.py
 
 **Student ID:** 653380198-5
 
-**Course:** Script Programming
+**Course:** Script Programming (CP352301)
 
+---
+## 🛠️ Key Highlights & Tech Stack
+
+### 1. Full-Stack Web Development
+* **Backend:** พัฒนาด้วย Flask (Layered Architecture, Blueprint, Routing และ JSON API)
+* **Frontend:** ออกแบบด้วย Tailwind CSS และใช้งาน Asynchronous JavaScript (Fetch API) เพื่อประสบการณ์ใช้งานที่ลื่นไหลแบบ Real-time
+
+### 2. Data & AI Integration
+* **API Integration:** ดึงและจัดการข้อมูลจากภายนอก เช่น TheMealDB API พร้อมระบบ Error Handling
+* **Machine Learning Pipeline:** พัฒนาโมเดลแบบ End-to-End (Decision Tree, Logistic Regression, Naive Bayes) เพื่อสร้างระบบ AI Assist ช่วยใบ้คำในเกม
+
+### 3. Software Engineering & Logic
+* **Data Structures & Algorithms:** ใช้โครงสร้างข้อมูล Python (Dict, List, Set) ในการประมวลผลระบบจับคู่และกรองข้อมูล
+* **Testing & CI/CD:** เขียน Unit Test ด้วย `pytest` (Mocking) และตั้งค่าระบบ Automation ผ่าน GitHub Actions
+
+### 4. Teamwork & Project Management
+* **Project Management:** บริหารงานด้วย Agile/Kanban ผ่าน GitHub Projects (Sprints, Definition of Done)
+* **Version Control:** จัดการโค้ดด้วย Git Branching Strategy, แก้ไข Merge Conflicts และทำระบบ Changelog อย่างเป็นระเบียบ
 ---
 
 ## ⭐ Repository นี้
